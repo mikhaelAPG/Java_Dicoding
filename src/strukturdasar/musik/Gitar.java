@@ -1,4 +1,4 @@
-package strukturdasar.imports;
+package strukturdasar.musik;
 
 public class Gitar {
     public static void bunyi(){
