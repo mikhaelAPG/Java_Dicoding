@@ -7,6 +7,9 @@ public class Main {
         for (int x = 0 ; x < 5; x++){
             new Perhitungan();
         }
+
         System.out.println("Sampai "+Perhitungan.nilai);
+
+        System.out.println("getNilai memiliki nilai " + Perhitungan.getNilai());
     }
 }
