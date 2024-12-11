@@ -11,6 +11,6 @@ public class Test implements Serializable {
     String nilaiC;
 }
 
-public synchronized void showData() {
-
-}
+//public synchronized void showData() {
+//
+//}
