@@ -14,4 +14,14 @@ public class Hewan {
     Hewan(int umur) {
         this.umur = umur;
     }
+
+    void lari(){
+        System.out.println("Berlari dengan sangat cepat..");
+    }
+    void jalan(){
+        System.out.println("Berjalan dengan pelan..");
+    }
+    void makan(){
+        System.out.println("Makan dengan menggunakan mulut..");
+    }
 }
