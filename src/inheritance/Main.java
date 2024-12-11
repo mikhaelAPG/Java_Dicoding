@@ -13,5 +13,11 @@ public class Main {
         System.out.println("Apakah hewan IS-A Objek -> " + (kucing instanceof Object));
         System.out.println("Apakah kucing IS-A Hewan -> " + (kucing instanceof Hewan));
         System.out.println("Apakah kucing IS-A Kucing -> " + (kucing instanceof Kucing));
+
+        System.out.println("------------------------");
+
+        hewan.makan();
+        kucing.makan();
+        kucing.makan("daging ikan");
     }
 }
