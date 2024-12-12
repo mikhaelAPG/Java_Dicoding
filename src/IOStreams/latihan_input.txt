@@ -1,0 +1,1 @@
+ini latihan_input.txt
